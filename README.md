@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" >  
+  <a href="https://github.com/zlatex/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Zlatex&&show_icons=true"/>
+  </a>
+  </p>
